@@ -1,1 +1,3 @@
 # hellow-world
+
+Hi, this is Nuska. I'm just trying to figure out how this is suppose to work. I barely speak english... 
